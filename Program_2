@@ -1,4 +1,4 @@
-// Write a cpp program to convert Fahrenheit into Celsius using class.
+// Write a c++ program to convert Fahrenheit into Celsius using class.
 
 #include<iostream>
 using namespace std;
