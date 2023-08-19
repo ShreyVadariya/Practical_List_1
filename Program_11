@@ -6,7 +6,7 @@ int main()
 {
 	char str;
 	cout<<"My Name Is Vadariya Shrey"<<endl;
-  cout<<"En_no :: 220130318054 "<<endl;
+  	cout<<"En_no :: 220130318054 "<<endl;
 
 	cout<<"Enter the character : ";
 	cin>>str;
