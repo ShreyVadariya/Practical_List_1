@@ -7,8 +7,8 @@ int main()
 {
 	int n;
 	
-  cout<<"My Name Is Vadariya Shrey"<<endl;
-  cout<<"En_no :: 220130318054 "<<endl;
+  	cout<<"My Name Is Vadariya Shrey"<<endl;
+  	cout<<"En_no :: 220130318054 "<<endl;
 	cout<<"Enter the number : ";
 	cin>>n;
 	
