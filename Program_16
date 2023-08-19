@@ -33,4 +33,6 @@ int arm(int n)
 	{
 		cout<<"This is not Armstrong number ";
 	}
+
+	return 0;
 }
