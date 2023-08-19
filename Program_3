@@ -1,0 +1,11 @@
+// Write C++ program to display “hello world”.
+
+#include<iostream>
+using namespace std;
+int main()
+{
+	cout<<"My Name Is Vadariya Shrey"<<endl;
+  cout<<"En_no :: 220130318054 "<<endl;
+	cout<<"Hello World";
+	return 0;
+}
