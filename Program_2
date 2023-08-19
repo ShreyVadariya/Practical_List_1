@@ -19,10 +19,8 @@ int main()
 	temp t;
 	float f;
 	
-  cout<<"My Name Is Vadariya Shrey"<<endl;
-  cout<<"En_no :: 220130318054 "<<endl;
-  cout<<"My Name Is Krinshsmith Kava"<<endl;
-	cout<<"En_no    220130318102"<<endl;
+  	cout<<"My Name Is Vadariya Shrey"<<endl;
+  	cout<<"En_no :: 220130318054 "<<endl;
 	cout<<"Enter the Teamprature in fahernhit : ";
 	cin>>f;
 	cout<<"Temprature in celsius = "<<t.conversion(f);
