@@ -34,4 +34,6 @@ int prime(int n)
 	{
 		cout<<"This not prime number";
 	}
+
+	return 0;
 }
