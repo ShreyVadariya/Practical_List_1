@@ -33,4 +33,6 @@ int palim(int n)
 	{
 		cout<<"This is not palimdrome ";
 	}
+
+	return 0;
 }
