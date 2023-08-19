@@ -24,4 +24,7 @@ int sum(int n)
 		s=s+i;
 	}
 	cout<<s;
+
+	return 0;
 }
+
