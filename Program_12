@@ -2,7 +2,7 @@
 
 #include<iostream>
 using namespace std;
-main()
+int main()
 {
 	int n,i;
 	
@@ -16,4 +16,6 @@ main()
 		cout<<n<<" * "<<i<<" = "<<n*i<<endl;
 	}
 	cout<<endl;
+
+	return 0;
 }
